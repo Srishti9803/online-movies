@@ -88,7 +88,7 @@
                 
               
                 }
-                ?>
+                ?> // hello
                 //alert("<?php echo $string;?>");
               var choices=[<?php echo $string;?>];
                 var suggestions = [];
